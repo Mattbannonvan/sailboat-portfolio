@@ -4,7 +4,7 @@
 Create a portfolio of 10 sailboat-at-sea drawings on 9x12-inch black paper using colored pencils, completing one every 3-4 days, finishing by June 23, 2025.
 
 ## Schedule
-- **May 19–22, 2025**: Drawing 1 ([Storm-Tossed Warship](https://github.com/Mattbannonvan/sailboat-portfolio/blob/main/Screenshot%202025-05-19%20at%2007-37-38%20Instagram.png))
+- **May 19–22, 2025**: Drawing 1 ([Storm-Tossed Warship](https://github.com/Mattbannonvan/sailboat-portfolio/blob/main/Screenshot%202025-05-19%20at%2007-37-38%20Instagram.png))Example
 - **May 23–26**: Drawing 2 (Sunset Merchant Ship)
 - **May 27–30**: Drawing 3 (Foggy Ghost Ship)
 - **May 31–June 3**: Drawing 4 (Naval Battle Chaos)
